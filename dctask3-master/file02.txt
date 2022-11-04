@@ -1,0 +1,1 @@
+Hello hadoop this is test file created by Aisina Nazira for task 3 
